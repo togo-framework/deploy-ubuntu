@@ -1,8 +1,8 @@
 <!-- togo-header -->
 <div align="center">
-  <img src=".github/assets/togo-mark.svg" alt="togo" height="64" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/togo-mark-dark.svg" /><img src=".github/assets/togo-mark.svg" alt="ToGO" height="64" /></picture>
   <h1>togo-framework/deploy-ubuntu</h1>
-  <p><a href="https://to-go.dev/marketplace"><img src="https://img.shields.io/badge/marketplace-to--go.dev-1FC7DC" /></a> <a href="https://pkg.go.dev/github.com/togo-framework/deploy-ubuntu"><img src="https://pkg.go.dev/badge/github.com/togo-framework/deploy-ubuntu.svg" /></a> <img src="https://img.shields.io/badge/license-MIT-blue" /></p>
+  <p><a href="https://to-go.dev/marketplace"><img src="https://img.shields.io/badge/marketplace-to--go.dev-1F8A99" /></a> <a href="https://pkg.go.dev/github.com/togo-framework/deploy-ubuntu"><img src="https://pkg.go.dev/badge/github.com/togo-framework/deploy-ubuntu.svg" /></a> <img src="https://img.shields.io/badge/license-MIT-blue" /></p>
   <p><strong>Part of the <a href="https://to-go.dev">togo</a> framework.</strong></p>
 </div>
 
